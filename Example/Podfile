@@ -1,0 +1,6 @@
+use_frameworks!
+target 'NetworkAgent_Tests' do
+  pod 'NetworkAgent', :path => '../'
+  
+  
+end
